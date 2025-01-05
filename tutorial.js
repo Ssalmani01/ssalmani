@@ -38,5 +38,9 @@ console.log('Ваше имя: ' + name2);
 let ask = confirm("Вы Коля?"); // ask window
 alert(ask);
 
-
-
+let inkrement = 4;
+let discremet = 4;
+inkrement++;
+discremet--;
+console.log (inkrement);
+console.log (discremet);
